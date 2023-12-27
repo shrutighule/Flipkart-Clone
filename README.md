@@ -1,1 +1,1 @@
-# Soptify
+This is a Flipkart Clone.
