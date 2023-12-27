@@ -1,0 +1,345 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-container{
+  width: 100%;
+  height: 56px;
+  background-color: #2874f0;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  z-index: 10;
+}
+
+.nav-bar{
+  width: 80%;
+  height: inherit;
+  display: flex;
+  justify-content: space-evenly;
+
+  
+}
+
+.nav-img{
+  height: 20px;
+  width: 75px;
+  margin-top: 13px;
+  position: relative;
+  left: 11px;
+}
+
+.nav-bar span input{
+  height: 36px;
+  width: 382px;
+  margin-top: 10px;
+}
+
+.icon{
+  position: relative;
+  right: 30px;
+  
+}
+
+.last-four{
+  color: white;
+  font-weight: 500;
+  padding-top: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  
+}
+
+
+
+.explore{
+  color: white;
+  font-weight: 500;
+  position: relative;
+  bottom: 7px;
+  left: 11px;
+  box-shadow: 0px 0px 5px rgb(109, 109, 248);
+}
+.plus{
+  color: #ffe500;
+}
+
+.plus-img{
+  height: 10px;
+  
+}
+
+main{
+  background-color: #f0f2f5;
+  width: 100%;
+  height: 1000px;
+}
+
+.side-cart-container{
+  width: 829px;
+  height: 1000px;
+  box-shadow: 0px 2px 5px rgb(155, 155, 155);
+  margin-left: 10px;
+  position: relative;
+  top: 70px;
+ 
+}
+
+.flipkart-grocery{
+  height: 58px;
+  width: 829px;
+  position: relative;
+  
+  background-color: white;
+  /* margin-left: px; */
+  display: flex;
+  justify-content: space-around;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  
+}
+
+.flipkart-grocery p{
+  margin-top: 15px;
+}
+
+.flipkart-grocery p:hover{
+color: #2874f0;
+}
+
+.flipkart-grocery2{
+  height: 58px;
+  width: 829px;
+  position: relative;
+  
+  background-color: white;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 5px;
+
+}
+
+.flipkart-grocery2 p{
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.flipkart-grocery2 button{
+  height: 37px;
+  width: 164px;
+  font-size: 14px;
+  margin-left: 300px;
+  margin-top: 10px;
+  border: 1px solid rgb(221, 218, 218);
+  border-radius: 3px;
+  color: #2874f0;
+  background-color: white;
+}
+.flipkart-grocery2 button:hover{
+box-shadow: 0px 0px 3px rgb(221, 218, 218);
+}
+
+.product-container{
+  height: auto;
+  width: 829px;
+  display: flex;
+ 
+  
+  background-color: white;
+  margin-top: 10px;
+  
+  
+  
+}
+
+
+
+.product-image img{
+  height: 112px;
+  width: 84px;
+  margin:  14px 39px;
+  
+}
+
+.product-image button{
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  border: 1px solid rgb(126, 122, 122);
+  background-color: white;
+  cursor: pointer;
+}
+
+.product-image input{
+  height: 25px;
+  width: 46px;
+  
+
+}
+
+.input-plus{
+  margin-left: 15px;
+  margin-bottom: 24px;
+}
+
+#product-des-h5{
+ color: #878787;
+ font-size: 12px;
+ margin: 0px;
+ 
+}
+
+.product-container p{
+  margin-top:  10px;
+}
+.company-name{
+  color: #878787;
+  font-size: 14px;
+}
+
+.price-container{
+  margin-top: 18px;
+}
+
+.original-price{
+  font-size: 13px;
+  color: #878787;
+  text-decoration: line-through;
+  margin: 2px;
+}
+
+.discount-price{
+  font-size: 13px;
+  color: rgb(0, 154, 0);
+  margin: 2px;
+
+}
+
+.remove-cont{
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  margin-top: 30px;
+  transition: all 0.2s;
+}
+
+.remove-cont  h3{
+  font-size: 16px;
+}
+
+.remove-cont h3:hover{
+color: #2874f0;
+cursor: pointer;
+}
+
+.product-name-cont{
+  display: flex;
+}
+.product-name-cont .product-delivery{
+  margin-left: 100px;
+  font-size: 12px;
+}
+
+.place-order{
+  height: 84px;
+  width: 828px;
+  background-color: white;
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 22px;
+  
+}
+
+.place-order button{
+  height: 51px;
+  width: 250px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: white;
+  background-color: #fb641b;
+  padding: 10px 30px;
+  border: none;
+  margin-right: 22px;
+  border-radius: 3px;
+  
+}
+
+.all-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.calculation-side{
+  width: 398px;
+  height: 309px;
+  background-color: white;
+  margin-top: 70px;
+  margin-left: 18px;
+  position: fixed;
+  top: 0px;
+  left: 840px;
+  border-radius: 3px;
+  box-shadow: 0px 1px 1px rgb(173, 173, 173);
+}
+
+.price-details{
+  padding: 13px 24px;
+  color: #878787;
+  font-size: 16px;
+}
+
+.price-items{
+  display: flex;
+  justify-content: space-between;
+}
+.price-items p{
+  margin: 20px 0px;
+  padding: 0px 24px;
+}
+
+.price-items h3{
+  margin: 20px 0px;
+  padding: 0px 24px;
+}
+.para2{
+  color: #388e3c;
+}
+
+.bag-item-count{
+  background-color: #f16565;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 18px;
+  padding: 0 6px;
+  height: 18px;
+  position: relative;
+  border-radius: 50%;
+  font-size: 12px;
+  color: #fff;
+  right: 11px;
+  top: -10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.product-papa-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.extra{
+  height: 400px;
+}
+
+.removeh3{
+ padding-right: 200px;
+}

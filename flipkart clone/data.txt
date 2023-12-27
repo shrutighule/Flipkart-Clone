@@ -1,0 +1,37 @@
+
+ img 1 - company name =  Tokyo Talkies
+item name = Women Full Sleeve Solid Sweatshirt
+ current price = ₹391 original price =  ₹1,699 discount percentage = 76% off
+
+img2 - Tokyo Talkies
+Women Solid Scoop Neck Green Sweater
+₹459 ₹2,049 77% off
+
+img 3 -Tokyo Talkies
+Women Full Sleeve Printed Hooded Sweatshirt
+₹422₹1,799 76% off
+
+img 4 - Uptownie Lite
+Women Self Design Casual Jacket
+₹549₹2,69979% off
+
+img 5- Magnolia
+Modern Trendy Sneakers boot Sneakers Sneakers For Men
+₹313₹1,29975% off
+
+img6 - BOLLERO
+Sneaker Casual Shoes for Men | Soft Cushioned Insole, for Men
+₹854₹3,99978% off
+
+img 7 - Toriyox 5 Door 5 Shelf Plastic PC Carbon Steel Collapsible wardrobe
+Finish Color - Black, DIY(Do-It-Yourself)
+3.7(1,411)
+₹2,022₹5,49963% off
+
+img 8 - BVM GROUP Writing Tablet 8.5 Inch Screen Electronic Wri...
+3.9(10,402)
+₹145₹99985% off
+
+img9 - Do Pal Air Dry Clay For Kids DIY Ultra Light Modeling B...
+3.6(389)
+₹99 ₹499 80% off
